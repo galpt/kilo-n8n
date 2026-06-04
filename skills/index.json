@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "name": "n8n-code-javascript",
+      "files": ["SKILL.md", "README.md", "BUILTIN_FUNCTIONS.md", "COMMON_PATTERNS.md", "DATA_ACCESS.md", "ERROR_PATTERNS.md"]
+    },
+    {
+      "name": "n8n-code-python",
+      "files": ["SKILL.md", "README.md", "COMMON_PATTERNS.md", "DATA_ACCESS.md", "ERROR_PATTERNS.md", "STANDARD_LIBRARY.md"]
+    },
+    {
+      "name": "n8n-expression-syntax",
+      "files": ["SKILL.md", "README.md", "COMMON_MISTAKES.md", "EXAMPLES.md"]
+    },
+    {
+      "name": "n8n-mcp-tools-expert",
+      "files": ["SKILL.md", "README.md", "SEARCH_GUIDE.md", "VALIDATION_GUIDE.md", "WORKFLOW_GUIDE.md"]
+    },
+    {
+      "name": "n8n-node-configuration",
+      "files": ["SKILL.md", "README.md", "DEPENDENCIES.md", "OPERATION_PATTERNS.md"]
+    },
+    {
+      "name": "n8n-validation-expert",
+      "files": ["SKILL.md", "README.md", "ERROR_CATALOG.md", "FALSE_POSITIVES.md"]
+    },
+    {
+      "name": "n8n-workflow-patterns",
+      "files": ["SKILL.md", "README.md", "ai_agent_workflow.md", "database_operations.md", "http_api_integration.md", "scheduled_tasks.md", "webhook_processing.md"]
+    }
+  ]
+}
